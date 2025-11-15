@@ -1,8 +1,0 @@
-/ {
-    chosen {
-        /* Number of keyboard peripherals the dongle will connect to
-         * 2 = left + right halves.
-         */
-        zmk,bt-peripheral-count = <2>;
-    };
-};
