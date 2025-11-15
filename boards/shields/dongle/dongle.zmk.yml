@@ -1,0 +1,5 @@
+file_format: "zmk-config"
+id: dongle
+name: Corne Dongle
+type: shield
+description: USB receiver dongle for Corne Wireless
